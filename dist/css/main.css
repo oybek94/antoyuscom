@@ -4404,6 +4404,7 @@ a.flat-button.reverse:hover:before {
 
 .content__title span {
   color: #ffdf00;
+  font-size: 6rem;
 }
 
 .content__subtitle {
@@ -6187,6 +6188,10 @@ header nav.fixed .phones {
     line-height: 4rem;
   }
 
+  .content__title span {
+    font-size: 4rem;
+  }
+
   .content__subtitle {
     font-size: 2rem;
   }
@@ -6416,6 +6421,10 @@ header nav.fixed .phones {
   .content__title {
     font-size: 2.4rem;
     line-height: 3rem;
+  }
+
+  .content__title span {
+    font-size: 3rem;
   }
 
   .content__subtitle {
