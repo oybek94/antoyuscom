@@ -4341,7 +4341,7 @@ a.flat-button.yellow {
 }
 
 a.flat-button.yellow:before {
-  background: linear-gradient(90deg, #ffdf00 0, #ffba00 100%);
+  background-color: #fff703;
 }
 
 a.flat-button.yellow:hover {
@@ -4674,7 +4674,8 @@ a.flat-button.reverse:hover:before {
 }
 
 header {
-  background-color: #80a721;
+  background: linear-gradient(
+184deg, #00b434 0, #005a1a 100%);
   color: #fff;
 }
 
@@ -4720,12 +4721,12 @@ header .header .contacts__phone {
 }
 
 header .header .contacts__phone a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 
 header .header .contacts__phone a span:before {
-  background: #000;
+  background: #fff;
 }
 
 header .header .contacts__email,
@@ -4744,12 +4745,12 @@ header .header .contacts__email {
 }
 
 header .header .contacts__email a {
-  color: #006cff;
+  color: #fff703;
   text-decoration: none;
 }
 
 header .header .contacts__email a span:before {
-  background: #006cff;
+  background: #fff703;
 }
 
 header .header .contacts.left {
@@ -4842,7 +4843,7 @@ header nav .main-menu ul li ul li a {
 }
 
 header nav .main-menu ul li ul li:hover {
-  background: linear-gradient(90deg, #ffeb00 0, #a3eb00 100%);
+  background-color: #fff703;
 }
 
 header nav .main-menu ul li:hover ul {
@@ -4883,6 +4884,8 @@ header nav.fixed .phones {
   text-align: center;
 }
 
+
+
 .banner .content__subtitle {
   margin-bottom: 5rem;
 }
@@ -4891,13 +4894,14 @@ header nav.fixed .phones {
   margin: 0 0 3rem 0;
 }
 
+
 .banner .catalog-link span {
   display: inline-block;
   width: 100%;
   padding: 27rem 3rem 3rem;
   background-position: center;
   background-size: cover;
-  color: #fff;
+  color: #eeef20;
   font-size: 2.2rem;
   text-decoration: none;
 }
@@ -6136,7 +6140,7 @@ header nav.fixed .phones {
   left: 2.5rem;
   width: 6rem;
   height: 6rem;
-  background: linear-gradient(60deg, #a3eb00 0, #ffeb00 100%);
+  background-color: #fff703;
   border-radius: 50%;
   padding: 1.8rem;
   cursor: pointer;
@@ -6317,7 +6321,7 @@ header nav.fixed .phones {
     top: -100rem;
     max-height: 80vh;
     padding: 0 1rem 1rem 2rem;
-    background: linear-gradient(90deg, #ffeb00 0, #a3eb00 100%);
+    background-image: #fff703;
     opacity: 0;
     overflow-y: auto;
     transition: opacity .3s;
