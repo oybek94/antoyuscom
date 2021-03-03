@@ -4912,15 +4912,15 @@ header nav.fixed .phones {
 }
 
 .banner .catalog-link.first span {
-  background-image: url(/src/img/виноград.jpeg);
+  background-image: url(/src/img/grape\ \(2\).jpg);
 }
 
 .banner .catalog-link.second span {
-  background-image: url(/src/img/ризамат.jpeg);
+  background-image: url(/src/img/nectarine\ \(3\).jpg);
 }
 
 .banner .catalog-link.third span {
-  background-image: url(/src/img/хурма.jpeg);
+  background-image: url(/src/img/cherry\ \(3\).jpg);
 }
 
 .banner .catalog-link.fourth span {
@@ -4936,7 +4936,67 @@ header nav.fixed .phones {
 }
 
 .banner .catalog-link.seventh span {
-  background-image: url(/src/img/сухофрукт4.jpeg);
+  background-image: url(/src/img/dried\ apricot.jpg);
+}
+
+.banner .catalog-link.eight span {
+  background-image: url(/src/img//apple.jpg);
+}
+
+.banner .catalog-link.nine span {
+  background-image: url(/src/img/apple\ \(2\).jpg);
+}
+
+.banner .catalog-link.ten span {
+  background-image: url(/src/img/apricot\ \(2\).jpg);
+}
+
+.banner .catalog-link.eleven span {
+  background-image: url(/src/img/apricot\ \(4\).jpg);
+}
+
+.banner .catalog-link.twelve span {
+  background-image: url(/src/img/peach.jpg);
+}
+
+.banner .catalog-link.thirdteen span {
+  background-image: url(/src/img/peach\ \(3\).jpg);
+}
+
+.banner .catalog-link.fourteen span {
+  background-image: url(/src/img/pear.jpg);
+}
+
+.banner .catalog-link.fourteen span {
+  background-image: url(/src/img/pear\ \(2\).jpg);
+}
+
+.banner .catalog-link.fifteen span {
+  background-image: url(/src/img/persimmon.jpg);
+}
+
+.banner .catalog-link.eighteen span {
+  background-image: url(/src/img/persimmon\ \(2\).jpg);
+}
+
+.banner .catalog-link.nineteen span {
+  background-image: url(/src/img/pomegranate.jpg);
+}
+
+.banner .catalog-link.twenty span {
+  background-image: url(/src/img/pomegranate\ \(2\).jpg);
+}
+
+.banner .catalog-link.twentyone span {
+  background-image: url(/src/img/strawberry.jpg);
+}
+
+.banner .catalog-link.twentytwo span {
+  background-image: url(/src/img/tomato.jpg);
+}
+
+.banner .catalog-link.twentythree span {
+  background-image: url(/src/img/cucumber.jpg);
 }
 
 .banner.product-1 {
