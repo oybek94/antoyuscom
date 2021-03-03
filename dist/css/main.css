@@ -4764,6 +4764,7 @@ header .header.fixed {
 header nav {
   position: relative;
   width: 100%;
+  height: 4px;
   z-index: 99;
   background-color: rgb(255 247 3);
   top: -100%;
