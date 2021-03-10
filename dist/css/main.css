@@ -4698,8 +4698,8 @@ header .header .logo__text {
 }
 
 header .header .logo__desc {
-  font-size: 1.5rem;
-  line-height: 1.9rem;
+  font-size: 1.8rem;
+  line-height: 2.5rem;
   display: flex;
   align-items: center;
   color: #FFFFFF;
@@ -5863,6 +5863,7 @@ header nav.fixed .phones {
 .about p {
   margin-bottom: 3rem;
   font-size: 1.6rem;
+  text-align: center;
 }
 
 .about p a.button {
@@ -5912,6 +5913,10 @@ header nav.fixed .phones {
 
 .about .credits a span:before {
   background: #000;
+}
+
+.last-p {
+  width: 100%;
 }
 
 .products .gallery {
@@ -6221,8 +6226,8 @@ header nav.fixed .phones {
   }
 
   header .header .logo__desc {
-    font-size: 1.2rem;
-    line-height: 1.6rem;
+    font-size: 1.8rem;
+    line-height: 2rem;
   }
 
   header nav .main-menu ul li {
@@ -6266,7 +6271,7 @@ header nav.fixed .phones {
   }
 
   header .header .logo__desc {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
   }
 
   header .header .contacts__email,
