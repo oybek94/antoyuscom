@@ -4913,91 +4913,91 @@ header nav.fixed .phones {
 }
 
 .banner .catalog-link.first span {
-  background-image: url(/src/img/grape\ \(2\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/grape\ \(2\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.second span {
-  background-image: url(/src/img/nectarine\ \(3\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/nectarine\ \(3\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.third span {
-  background-image: url(/src/img/cherry\ \(3\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/cherry\ \(3\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.fourth span {
-  background-image: url(/src/img/сухофрукт.jpeg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/сухофрукт.jpeg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.fifth span {
-  background-image: url(/src/img/сухофрукт\ 2.jpeg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/сухофрукт\ 2.jpeg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.sixth span {
-  background-image: url(/src/img/сухофрукт\ 3.jpeg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/сухофрукт\ 3.jpeg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.seventh span {
-  background-image: url(/src/img/изюм.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/изюм.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.eight span {
-  background-image: url(/src/img//apple.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img//apple.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.nine span {
-  background-image: url(/src/img/apple\ \(2\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/apple\ \(2\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.ten span {
-  background-image: url(/src/img/apricot\ \(2\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/apricot\ \(2\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.eleven span {
-  background-image: url(/src/img/курага.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/курага.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.twelve span {
-  background-image: url(/src/img/peach.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/peach.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.thirdteen span {
-  background-image: url(/src/img/peach\ \(3\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/peach\ \(3\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.fourteen span {
-  background-image: url(/src/img/pear.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/pear.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.fourteen span {
-  background-image: url(/src/img/pear\ \(2\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/pear\ \(2\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.fifteen span {
-  background-image: url(/src/img/persimmon.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/persimmon.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.eighteen span {
-  background-image: url(/src/img/persimmon\ \(2\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/persimmon\ \(2\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.nineteen span {
-  background-image: url(/src/img/pomegranate.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/pomegranate.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.twenty span {
-  background-image: url(/src/img/pomegranate\ \(2\).jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/pomegranate\ \(2\).jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.twentyone span {
-  background-image: url(/src/img/strawberry.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/strawberry.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.twentytwo span {
-  background-image: url(/src/img/tomato.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/tomato.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner .catalog-link.twentythree span {
-  background-image: url(/src/img/cucumber.jpg);
+  background: linear-gradient(to top,#222222c4 0%,rgba(0, 0, 0, 0) 100%), url(/src/img/cucumber.jpg) left 50% top 50% / cover no-repeat;
 }
 
 .banner.product-1 {
